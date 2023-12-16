@@ -19,8 +19,9 @@ class Main{
         int res = obj.add(3,4);
         System.out.println(res);
         // calculator obj = new calculator();
-        int res2 = obj.add(3,4,5);
-        System.out.println(res2);
+        // int res2 = obj.add(3,4,5);
+        // System.out.println(res2);
+        System.out.println("Hello Mandy");
         // System.out.println("Hello Rupesh");
     }
 }
